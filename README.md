@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. ## `npx create-react-app <project name>` 
+2. ## `cd react-http`
+3. ## `npm install axiom`
+
 ## Available Scripts
 
 In the project directory, you can run:
