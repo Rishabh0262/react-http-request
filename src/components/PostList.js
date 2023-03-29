@@ -13,7 +13,7 @@ class PostList extends Component {
 
     componentDidMount() {
         // Invalid Link for the API...
-        axios.get("https://jsonplaceholder.typicode.com/postsx")
+        axios.get("https://jsonplaceholder.typicode.com/posts")
         .then(response => {
             console.log(response)       // form here we can verify what we get as response.
             this.setState({
